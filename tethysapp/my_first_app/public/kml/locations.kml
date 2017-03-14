@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+<Document id="Olympic Locations">
+  <name>Olympic Locations</name>
+  <Snippet></Snippet>
+  <Folder id="FeatureLayer0">
+    <name>Olympic Locations</name>
+    <Snippet></Snippet>
+    <Placemark id="Rio de Janeiro, Brazil">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<!--POPUP FOR RIO---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Rio de Janeiro, Brazil</td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 2016</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/rio-2016">Rio Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Rio_de_Janeiro.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+
+
+</table>
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -43.17289999999999,-22.9068,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Sochi, Russia">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR SOCHI---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sochi, Russia</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 2014</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/sochi-2014">Sochi Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Sochi.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 39.7342,43.60280000000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="London, England">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+
+<!--POPUP FOR London---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>London, England</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 2012</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/london-2012">London Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/London.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -0.1278,51.50739999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Vancouver, Canada">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Vancouver---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Vancouver, Canada</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 2010</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/vancouver-2010">Vancouver Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Vancouver.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -123.1207,49.2827,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Beijing, China">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<!--POPUP FOR Beijing---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Beijing, China</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 2008</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/beijing-2008">Beijing Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Beijing.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 116.4074,39.9042,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Turin, Italy">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Turin---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Turin, Italy</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 2006</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/turin-2006">Turin Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Turin.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 7.686899999999999,45.0703,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Athens, Greece">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Athens---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Athens, Greece</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 2004</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/athens-2004">Athens Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Athens.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 23.7275,37.98379999999998,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Salt Lake City, Utah">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Salt Lake City---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Salt Lake City, Utah</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 2002</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/salt-lake-city-2002">Salt Lake City Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Salt_Lake_City.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -111.891,40.7608,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Sydney, Australia">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Sydney---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sydney, Australia</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 2000</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/sydney-2000">Sydney Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Sydney.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 151.2093,-33.86880000000001,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Nagano, Japan">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Nagano---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Nagano, Japan</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 1998</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/nagano-1998">Nagano Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Nagano.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 138.1948,36.64859999999995,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Atlanta, Georgia">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Atlanta---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Atlanta, Georgia</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 1996</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/atlanta-1996">Atlanta Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Atlanta.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -84.38800000000001,33.74899999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Lillehammer, Norway">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Lillehammer---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lillehammer, Norway</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 1994</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/lillehammer-1994">Lillehammer Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Lillehammer.JPG" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 10.4662,61.11529999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Barcelona, Spain">1
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Barcelona---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Barcelona, Spain</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 1992</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/barcelona-1992">Barcelona Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Barcelona.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 2.1734,41.3851,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Albertville, France">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Albertville---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Albertville, France</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 1992</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/albertville-1992">Albertville Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Albertville.JPG" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 6.392700000000001,45.67549999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Seoul, South Korea">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<!--POPUP FOR Seoul---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Seoul, South Korea</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Summer 1988</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/seoul-1988">Seoul Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Seoul.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> 126.978,37.56649999999999,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark id="Calgary, Canada">
+
+      <Snippet></Snippet>
+      <description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+
+<!--POPUP FOR Calgary---------------------------------------------------------------------------------------------------------------------------------------------->
+
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Calgary, Canada</td>
+
+</tr>
+
+<tr>
+
+
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:center;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<td>Winter 1988</td>
+
+</tr>
+
+
+
+<tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td><a href="https://www.olympic.org/calgary-1988">Calgary Olympics Website</a></td>
+
+</tr>
+
+
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr bgcolor="#D4E4F3">
+
+<img src="/static/my_first_app/images/Calgary.jpg" style="width:200px;height:150px;">
+
+</tr>
+
+</table>
+
+
+
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>
+
+]]></description>
+      <styleUrl>#IconStyle00</styleUrl>
+      <Point>
+        <altitudeMode>clampToGround</altitudeMode>
+        <coordinates> -114.0708,51.04859999999999,0</coordinates>
+      </Point>
+    </Placemark>
+  </Folder>
+  <Style id="IconStyle00">
+    <IconStyle>
+      <Icon><href>/static/my_first_app/images/locations.png</href></Icon>
+      <scale>0.2</scale>
+    </IconStyle>
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <PolyStyle>
+      <color>00000000</color>
+      <outline>0</outline>
+    </PolyStyle>
+  </Style>
+</Document>
+</kml>

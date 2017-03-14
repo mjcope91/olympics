@@ -1,0 +1,22 @@
+{% extends "my_first_app/base.html" %}
+
+{% block app_navigation_items %}
+
+{% endblock %}
+
+{% block app_content %}
+  <h1>Welcome to the Olympic Games App!</h1>
+  <h2>App Overview</h2>
+  <p>The Olympic Games App can be used to view the most recent 16 locations of the summer and winter Olympic Games.
+  Each of the 16 Olympic Game locations can be viewed on an interactive map. As different locations are selected,
+  the user is presented with a popup containing information about the Olympic Games at that location. The information
+  includes the city, country, season, and year of the Olympic Games along with a photo and link to the Olympic Game website for the
+  specific location area also provided.The different locations can be selected by clicking on them directly, or selecting
+  them from the drop down menu. The 2016 Olympic torch path can also be viewed.</p>
+<img src="/static/my_first_app/images/skiing.jpg" alt="Olympic Skiing" style="width:304px;height:228px;">
+<img src="/static/my_first_app/images/swimming.jpg" alt="Olympic Swimming" style="width:304px;height:228px;">
+{% endblock %}
+
+{% block app_actions %}
+  <a href="{% url 'my_first_app:map' %}" class="btn btn-default">Go To Map</a>
+{% endblock %}

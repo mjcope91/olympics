@@ -1,0 +1,60 @@
+{% extends "my_first_app/base.html" %}
+
+{% load tethys_gizmos %}
+{% load staticfiles %}
+
+{% block styles %}
+{{ block.super }}
+<link src="{% static 'my_first_app/css/main.css' %}" type="text/css"></link>
+<!--css file for the Open -->
+<link rel="stylesheet" href="https://openlayers.org/en/v4.0.1/css/ol.css" type="text/css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+{% endblock %}
+
+{% block app_navigation_items %}
+  <input type="checkbox" name="torch" value="torch" checked="checked" onclick="showtorch(this)"/>2016 Olympic Torch Path<br /><br />
+  <label>Olympic Games Location: </label><br />
+  <select id="location" onchange="selectlocation()">
+  <option value="All">Select location:</option>
+  <option value="Albertville, France">Albertville, France</option>
+  <option value="Athens, Greece">Athens, Greece</option>
+  <option value="Atlanta, Georgia">Atlanta, Georgia</option>
+  <option value="Barcelona, Spain">Barcelona, Spain</option>
+  <option value="Beijing, China">Beijing, China</option>
+  <option value="Calgary, Canada">Calgary, Canada</option>
+  <option value="Lillehammer, Norway">Lillehammer, Norway</option>
+  <option value="London, England">London, England</option>
+  <option value="Nagano, Japan">Nagano, Japan</option>
+  <option value="Rio de Janeiro, Brazil">Rio de Janeiro, Brazil</option>
+  <option value="Salt Lake City, Utah">Salt Lake City, Utah</option>
+  <option value="Seoul, South Korea">Seoul, South Korea</option>
+  <option value="Sochi, Russia">Sochi, Russia</option>
+  <option value="Sydney, Australia">Sydney, Australia</option>
+  <option value="Turin, Italy">Turin, Italy</option>
+  <option value="Vancouver, Canada">Vancouver, Canada</option>
+  </select><br />
+
+{% endblock %}
+
+{% block app_content %}
+
+<div id="map">
+ <div id="map" class="map"></div>
+    <div id="popup" class="ol-popup">
+      <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+      <div id="popup-content"></div>
+    </div>
+</div>
+
+{% endblock %}
+
+{% block app_actions %}.
+  <a href="{% url 'my_first_app:home' %}" class="btn btn-default">Back</a>
+{% endblock %}
+
+{% block scripts %}
+  {{ block.super }}
+  <script src="{% static 'my_first_app/js/main.js' %}" type="text/javascript"></script>
+  <script src="https://openlayers.org/en/v4.0.1/build/ol.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+{% endblock %}
